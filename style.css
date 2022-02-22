@@ -71,3 +71,9 @@ body {
   .topnav input[type=text] {
     border: 1px solid #ccc;  
   }
+
+.button {
+  background-color: #008cba;
+  padding: 8px 10px;
+  border-radius: 6px;
+}
